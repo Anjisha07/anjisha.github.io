@@ -3,7 +3,7 @@ Work is constantly changing. Projects multiply across the business and become pr
 # Work
 ## Management
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://en.wikipedia.org/wiki/Image#/media/File:Image_created_with_a_mobile_phone.png)
 
 [Click Me ](https://www.google.com)
 
