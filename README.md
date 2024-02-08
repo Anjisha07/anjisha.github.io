@@ -5,5 +5,4 @@ Work is constantly changing. Projects multiply across the business and become pr
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Reference-style: 
-![alt text][logo]
+
