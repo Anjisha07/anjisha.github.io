@@ -4,5 +4,6 @@ Work is constantly changing. Projects multiply across the business and become pr
 ## Management
 Inline-style: 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Click Me (https://www.google.com)
 
 
